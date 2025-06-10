@@ -22,8 +22,3 @@ This project focuses on two key algorithms:
 - **Randomized Quicksort**: Analyze the time complexity and empirically compare its performance with the deterministic version.
 - **Hashing with Chaining**: Implement a hash table using chaining and perform insert, search, and delete operations while observing the performance.
 
-## Installation
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/algorithm-efficiency.git
